@@ -105,4 +105,5 @@ body {
     background-image: linear-gradient(to bottom right, #f1141d, #e70d0c);
     color: rgb(233, 189, 78);
     text-rendering: optimizeLegibility;
+    box-shadow: #393a37 20px 20px 20px;
 }
